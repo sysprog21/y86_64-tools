@@ -1,0 +1,15 @@
+pipe/ldriver.ys
+pipe/sdriver.ys
+*.yo
+*.o
+misc/hcl.tab.c
+misc/hcl.tab.h
+misc/hcl2c
+misc/lex.yy.c
+misc/yas
+misc/yas-grammar.c
+misc/yis
+pipe/pipe-std.c
+pipe/psim
+seq/seq-std.c
+seq/ssim
